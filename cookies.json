@@ -6,7 +6,6 @@
         "domain": "lavka.yandex.ru",
         "secure": true,
         "httpOnly": false,
-        "expiry": 1730848365,
         "sameSite": "None"
     }
 ]
